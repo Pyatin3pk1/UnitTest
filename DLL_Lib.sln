@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DLL_Lib", "DLL_Lib\DLL_Lib.csproj", "{5306B248-8965-41FC-AA89-6F6CE56882F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLib", "MyLib\MyLib.csproj", "{6DEC589B-6EA7-4EFC-A7C5-51C1C2B1D76B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectMyLib", "TestProjectMyLib\TestProjectMyLib.csproj", "{96AD63EE-6E21-4144-A654-634B03C1F5A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5306B248-8965-41FC-AA89-6F6CE56882F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5306B248-8965-41FC-AA89-6F6CE56882F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5306B248-8965-41FC-AA89-6F6CE56882F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5306B248-8965-41FC-AA89-6F6CE56882F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DEC589B-6EA7-4EFC-A7C5-51C1C2B1D76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEC589B-6EA7-4EFC-A7C5-51C1C2B1D76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEC589B-6EA7-4EFC-A7C5-51C1C2B1D76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEC589B-6EA7-4EFC-A7C5-51C1C2B1D76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96AD63EE-6E21-4144-A654-634B03C1F5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AD63EE-6E21-4144-A654-634B03C1F5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AD63EE-6E21-4144-A654-634B03C1F5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AD63EE-6E21-4144-A654-634B03C1F5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B759D320-D526-45DA-BF7A-BF0A220505D0}
+	EndGlobalSection
+EndGlobal
